@@ -5,7 +5,8 @@ import javax.swing.*;
 import java.util.Scanner;
 
 public class MainClass {
-
+    System.out.println("h");
+        
     public static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
