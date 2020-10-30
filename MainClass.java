@@ -5,12 +5,13 @@ import javax.swing.*;
 import java.util.Scanner;
 
 public class MainClass {
-    System.out.println("h");
+    
         
     public static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        /* -Skapa en superklass Employee för att öva på inheritance
+      System.out.println("h"); 
+      /* -Skapa en superklass Employee för att öva på inheritance
         -skapa subklasser för varje befattning; Managers Programmers, Secretaries, 
         Technicians, Graphic designer för att öva på Polymorphism
         Ska vi ha olika bonusuträkningar för varje befattning??(Abstract method)
